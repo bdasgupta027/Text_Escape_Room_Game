@@ -1,0 +1,116 @@
+Title: THE BANK
+
+Opening Story: 
+After a long day of work, you get home and plop yourself on the couch. 
+You unlock your phone to spend the next couple of hours watching TikToks when you get
+a notification on your phone: an email from Uvuvwevwevwe Onyetenyevwe Ugwemubwem Ossas,
+the Prince of Nigeria. Prince Uvuvwevwevwe Onyetenyevwe Ugwemubwem Ossas says that his 
+late father deposited $4.2 million in a Bank in West Africa for safe keeping. The Prince 
+wanted to transfer the fund into your bank account for investment purposes. However, in
+order to do this you would have to transfer all your savings out of your bank account as 
+these were the rules for transferring money in Nigeria. Although you knew better, the email
+seemed so compelling and realistic that you decided to go for it. Unfortunately, you fell for 
+the scam and are now broke. The most logical option right now is to rob a bank so you end up
+being a millionaire despite being fooled by the Prince. You decide to go on reddit to search up
+things about bank security when you find a subreddit talking about priceless diamonds being stored
+in a technologically-sophisticated safe at the Bank of Cupertino. However, in order to rob the bank
+and get access to these diamonds, you must find a way to get past this multi-layered safe. 
+
+
+Game Ideas/Flow:
+//4 new kinds of items
+1. White board
+2. Laser beams
+3. Sunglasses
+4. Button
+
+//2 new commands
+1. Erase
+2. Write on
+3. Wear
+
+
+//2 puzzles
+1. Math problems
+2. Erase the whiteboard
+3. Riddle: "Money"
+
+Walk-through: 
+You are in the vault.
+
+You can see:
+  notes - Notes you have taken from the subreddit about how to get past the first vault
+  vault - the first vault you need to get past It is closed.
+You have taken 0 turns. You have 15 turns left to escape.
+
+>use notes
+
+The door requires a 4 digit passcode to open. Here are the numbers:
+1) (9 * 2) - (3 * 3) = ______
+2) square root of 36 = _____
+3) 2^3 = ____
+4) 9%2 = ____
+Rearrange these numbers to get the year that Martin Luther King Jr. was assassinated.
+You have taken 1 turns. You have 14 turns left to escape.
+
+>unlock vault
+password: 1968
+You have unlocked the vault
+You have taken 2 turns. You have 13 turns left to escape.
+
+>open vault
+You open the vault. Inside, you see: 
+  whiteboard - A whiteboard that contains numbers and a pen near it. The whiteboard reads: 
+  789535261084
+636289237982
+  vault_2 - The second vault you need to get past. There is a 4 digit passcode It is closed.
+You have taken 3 turns. You have 12 turns left to escape.
+
+>write on whiteboard
+You scribble on the whiteboard.
+Nothing happens.
+You have taken 4 turns. You have 11 turns left to escape.
+
+>erase whiteboard
+This is what the board reads: 
+   5        
+6   8    9   
+You start erasing the board and all the numbers on the board disappear except for 4 of them.
+You have taken 5 turns. You have 10 turns left to escape.
+
+>unlock vault_2
+password: 5689
+You have unlocked the vault_2
+You have taken 6 turns. You have 9 turns left to escape.
+
+>open vault_2
+You open the vault_2. Inside, you see: 
+  glass_case - A case with a red_button inside. The case requires a 5 letter passcode. It is closed.
+  scrap_of_paper - A scrap of paper you find lying on the ground next to the glass_case.
+The bank manager might have accidentally dropped it while leaving the vault.
+  sunglasses - A pair of blue-tinted sunglasses.
+You have taken 7 turns. You have 8 turns left to escape.
+
+>wear sunglasses
+You put on the sunglasses and see a laser beam security system between you and the next vault.
+You have taken 8 turns. You have 7 turns left to escape.
+
+>use scrap_of_paper
+Hint for the glass_case: Five letter word that has only one left when two letters are removed.
+You have taken 9 turns. You have 6 turns left to escape.
+
+>unlock glass_case
+password: money
+You have unlocked the glass_case
+You have taken 10 turns. You have 5 turns left to escape.
+
+>open glass_case
+You open the glass_case. Inside, you see: 
+  red_button - A big red button inside a locked clear case.
+The button seems to be the only way to turn off the lasers.
+You have taken 11 turns. You have 4 turns left to escape.
+
+>press red_button
+You press the red_button and the laser beams disappear!
+You see the wall drop and in front of you are the diamonds!
+You have escaped in 12 turns!
